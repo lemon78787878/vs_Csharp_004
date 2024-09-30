@@ -47,11 +47,11 @@ namespace vs_Csharp_004
         {
             if (this.checkBoxControl.Checked)
             {
-                this.labelControl.Text = "ON";
+                this.labelControl.Text = "ON!";
             }
             else
             {
-                this.labelControl.Text = "OFF";
+                this.labelControl.Text = "OFF!";
             }
 
         }
