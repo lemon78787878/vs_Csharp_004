@@ -51,7 +51,7 @@ namespace vs_Csharp_004
             }
             else
             {
-                this.labelControl.Text = "OFF!";
+                this.labelControl.Text = "OFF!!";
             }
 
         }
